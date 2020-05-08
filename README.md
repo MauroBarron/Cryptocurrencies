@@ -29,7 +29,7 @@ Used SKLearn to reduce the scaled data to three components for three dimensional
 
 *Visualizations* 
 
-Please see:[Unsupervised Machine Learning python script and plots](https://github.com/MauroBarronl/Cryptocurrences/blob/master/Challenge_Module_18_Unsupervised_Learning.ipynb)
+Please see:[Unsupervised Machine Learning python script and plots](https://github.com/MauroBarron/Cryptocurrences/blob/master/Challenge_Module_18_Unsupervised_Learning.ipynb)
 
 1. A three dimensional Plotly Express scatter plot showing the clusters with markers identifying Coin name and Algorithm.
 2. An hvplot table containing Coin Name, Algorithm, ProofType, Total Coin Supply and class. This data set can be used for additional analysis and visualizations by the five clusters.
